@@ -2,8 +2,8 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNLPchina%2Felasticsearch-analysis-ansj.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNLPchina%2Felasticsearch-analysis-ansj?ref=badge_shield)
 
 
-这是一个elasticsearch的中文分词插件，基于ansj,感谢群内热心的朋友。
-并宣传一下我们的群QQ211682609
+这是一个elasticsearch的中文分词插件，基于ansj
+-- update by 2020-05-09 支持es 7.5.1版本
 
 ## 版本对应
 
@@ -107,7 +107,8 @@
 | 7.3.2         |     7.3.2     |
 | 7.4.0         |     7.4.0     |
 | 7.4.1         |     7.4.1     |
-| master        |     7.4.2     |
+| 7.4.2         |     7.4.2     |
+| master        |     7.5.1     |
 
 ## 7.4.2 插件安装
 
